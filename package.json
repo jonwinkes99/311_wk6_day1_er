@@ -1,0 +1,20 @@
+{
+  "name": "311_wk6_day1_er",
+  "version": "1.0.0",
+  "description": "You should already have MySQL installed from last week but if you don't, please [install it now](https://dev.mysql.com/downloads/mysql/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwinkes99/311_wk6_day1_er.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonwinkes99/311_wk6_day1_er/issues"
+  },
+  "homepage": "https://github.com/jonwinkes99/311_wk6_day1_er#readme"
+}
